@@ -1,26 +1,26 @@
 # Pokedex Olsen
 
-App based on DIO Cloud Fullstack Bootcamp - Warburg Pincus
+Aplicação baseada no Formação JavaScript Developer
 
-Objective: to buid an app to consume pokemon API and use JS
+Objetivo: construir uma aplicação para consumir a API do Pokémon e utilizar JS
 
-## references:
+## Referências:
 
 https://pokeapi.co/
 https://pokeapi.co/docs/v2
 https://pokeapi.co/docs/v2#pokemon
 
-this last one for pokemons images, refer to sprites > other > dream_world
+Esta última serve para as imagens dos pokémons, consulte: sprites > other > dream_world
 
-## Inspiration
+## Inspiração
 
 https://dribbble.com/shots/6540871-Pokedex-App
 
-## Images
+## Imagens
 
-images colected from pokeapi.co/v2#pokemon (pokemon -> other -> dream-world)
+Imagens recolhidas de pokeapi.co/v2#pokemon (pokemon -> other -> dream-world)
 
 Bulbasaur (1):
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg
 
-Other images will follow the same pattern, consider image number on the URL according to the displayed sequence
+Outras imagens seguirão o mesmo padrão, considere o número da imagem na URL de acordo com a sequência exibida.
